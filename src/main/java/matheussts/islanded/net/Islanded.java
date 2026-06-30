@@ -14,15 +14,11 @@ import matheussts.islanded.items.armors.ArmorMaker;
 import matheussts.islanded.items.factory.ModBlocks;
 import matheussts.islanded.items.bottles.RegisterBottles;
 import matheussts.islanded.items.materials.RegisterMaterials;
-import matheussts.islanded.items.tools.RegisterTools;
 import matheussts.islanded.loot.ModLootTables;
 import matheussts.islanded.network.ThirstServerPacket;
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
-import net.minecraft.server.level.ServerPlayer;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.level.Level;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
