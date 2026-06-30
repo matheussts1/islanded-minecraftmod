@@ -13,7 +13,6 @@ import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobCategory;
 
-
 public class ModEntities {
     public static final EntityType<MonkFish> MONK_FISH = registerEntities(
             "monk_fish",

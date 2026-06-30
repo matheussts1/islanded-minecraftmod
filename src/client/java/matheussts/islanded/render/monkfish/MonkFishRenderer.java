@@ -1,6 +1,5 @@
 package matheussts.islanded.render.monkfish;
 
-
 import matheussts.islanded.layers.ModEntityModelLayers;
 import matheussts.islanded.model.MonkFishModel;
 import matheussts.islanded.entities.fishs.monkfish.MonkFish;

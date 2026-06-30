@@ -8,7 +8,6 @@ import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.model.geom.PartPose;
 import net.minecraft.client.model.geom.builders.*;
 
-
 public class ClownFishModel <T extends ClownFishRenderState> extends EntityModel<T> {
 
     private final ModelPart body;

@@ -1,9 +1,5 @@
 package matheussts.islanded.datagen.worldgen;
 
-import matheussts.islanded.datagen.IslandedDataGenerator;
-import matheussts.islanded.datagen.worldgen.features.ConfiguredFeatures;
-import matheussts.islanded.datagen.worldgen.features.PlacedFeatures;
-import matheussts.islanded.net.Islanded;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricDynamicRegistryProvider;
 import net.minecraft.core.HolderLookup;
