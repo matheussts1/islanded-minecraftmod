@@ -20,4 +20,3 @@ public class ModEntityModelLayers {
         EntityModelLayerRegistry.registerModelLayer(ModEntityModelLayers.CLOWN_FISH, ClownFishModel::createBodyLayer);
     }
 }
-

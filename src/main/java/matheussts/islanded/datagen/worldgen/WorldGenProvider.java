@@ -23,5 +23,4 @@ public class WorldGenProvider extends FabricDynamicRegistryProvider {
     public @NotNull String getName() {
         return "Islanded World Generation";
     }
-    
 }

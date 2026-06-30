@@ -1,6 +1,5 @@
 package matheussts.islanded.datagen.worldgen.features;
 
-
 import matheussts.islanded.items.materials.RegisterMaterials;
 import matheussts.islanded.net.Islanded;
 import net.minecraft.core.registries.Registries;
@@ -40,4 +39,3 @@ public class ConfiguredFeatures {
     //doing the change, getting what is replaceable, and changing to my plastic block
     static List<OreConfiguration.TargetBlockState> plasticBlockOreConfig = List.of(OreConfiguration.target(templateReplaceableRule, RegisterMaterials.PLASTIC_BLOCK.defaultBlockState()));
     }
-

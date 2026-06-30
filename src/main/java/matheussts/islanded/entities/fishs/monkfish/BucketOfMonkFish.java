@@ -25,5 +25,4 @@ public class BucketOfMonkFish extends MobBucketItem {
             entries.accept(BUCKET_OF_MONKFISH);
         });
     }
-
 }

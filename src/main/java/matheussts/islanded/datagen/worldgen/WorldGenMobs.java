@@ -12,8 +12,6 @@ import net.minecraft.world.level.biome.Biomes;
 
 import java.util.function.Predicate;
 
-import static net.fabricmc.fabric.api.biome.v1.BiomeSelectors.includeByKey;
-
 public class WorldGenMobs {
 
     public static void changingSeaGeneration() {

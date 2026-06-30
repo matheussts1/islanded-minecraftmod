@@ -36,5 +36,4 @@ public class CopperDivingSuit {
             REPAIRS_COPPER_SUIT,
             COPPER_DIVING_SUIT
     );
-
 }
